@@ -30,4 +30,4 @@ Stories from the dark side of the internet. Explores the consequeces and lessons
 
 [_Horse_](https://www.horsehoops.com/)
 
-Podcast on the NBA covering everything other than the wins and losses. Funny stories and coverat
+Podcast on the NBA covering everything other than the wins and losses. Funny stories and banter.
