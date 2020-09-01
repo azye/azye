@@ -2,7 +2,7 @@
 
 I'm currently a Software Engineer based in the Bay Area. I love tackling code problems of all kinds but my areas of focus are in: 
 
-- building general backend web development
+- general backend web development
 - cloud and data center architectures
 - distributed web systems, databases
 - productivity tooling
